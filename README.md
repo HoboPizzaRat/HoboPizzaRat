@@ -1,26 +1,27 @@
 # `> whoami`
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=HoboPizzaRat&fontColor=58A6FF&fontSize=48&fontAlignY=35&desc=Security%20%7C%20Systems%20%7C%20Software&descAlignY=55&descSize=18" width="100%">
+</p>
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   HOBOPIZZARAT                                                       
+│   HoboPizzaRat                                               │
 │                                                             │
-│   Security enthusiast      > breaking things responsibly   
-│   Software developer       > building weird things         
-│   Systems enjoyer          > wondering what happens below   
-│                                                             │
-│   Currently learning: Go · Reverse Engineering · WebSec    
+│   Security enthusiast      > breaking things responsibly   │
+│   Software developer       > building weird things         │
+│   Systems enjoyer          > digging below the abstraction │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ## `~/about`
 
-I'm interested in understanding computers from the browser all
-the way down to the machine code.
+I'm interested in understanding computers from the web browser
+all the way down to machine code.
 
-Currently spending an unreasonable amount of time learning:
+Currently learning and experimenting with:
 
 * 🔐 Cybersecurity & penetration testing
 * 🧬 Reverse engineering
@@ -45,7 +46,7 @@ Currently spending an unreasonable amount of time learning:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![Assembly](https://img.shields.io/badge/x86_Assembly-0d1117?style=for-the-badge\&logoColor=white)
 
-### Tools & Technologies
+### Tools
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux\&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
@@ -70,68 +71,83 @@ Currently spending an unreasonable amount of time learning:
 CTFs · Web Pentesting · Network Security · Forensics ·
 Reverse Engineering · Malware Analysis
 
-### 🧠 Low Level
+### 🧬 Reverse Engineering
 
-C · C++ · x86 Assembly · Operating Systems · Memory · Networking
+Taking binaries apart until they start making sense.
 
 ### 🐹 Current obsession
 
-Learning Go and figuring out why everyone keeps saying
-*"Go is simple"* immediately before showing me 47 interfaces.
+Learning Go and discovering how many interfaces
+one language can possibly need.
 
 ---
 
 ## `~/github_stats`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HoboPizzaRat&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoboPizzaRat&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HoboPizzaRat&theme=github-dark-blue&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=HoboPizzaRat&theme=github-dark-blue&hide_border=true"
+    height="195"
+  />
 </p>
-
----
-
-## `~/projects`
-
-### 🔬 Security Research
-
-> Writeups, experiments, CTF solutions and security tooling.
-
-### 🧪 Reverse Engineering
-
-> Taking binaries apart until they start making sense.
-
-### 🎮 Game Development
-
-> Occasionally making games instead of finishing the things I'm supposed to be doing.
-
-### 🛠️ Random Experiments
-
-> If an idea sounds stupid enough, it probably deserves a repository.
 
 ---
 
 ## `~/activity`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoboPizzaRat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-</p>
+Your GitHub contribution graph already lives directly on your profile.
+
+No third-party activity graph required.
+
+```text
+GitHub contributions
+        │
+        ├── commits
+        ├── pull requests
+        ├── issues
+        └── contribution history
+```
 
 ---
 
-## `~/contact`
+## `~/projects`
+
+### 🔐 Security Research
+
+CTF writeups, security experiments, tooling and notes.
+
+### 🧪 Reverse Engineering
+
+Learning how software works by taking it apart.
+
+### 🎮 Game Development
+
+Making games while occasionally remembering that
+finishing projects is supposed to be part of game development.
+
+### 🛠️ Random Experiments
+
+If the idea is sufficiently stupid, it deserves a repository.
+
+---
+
+## `~/github`
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://github.com/HoboPizzaRat">
+  <img src="https://img.shields.io/badge/GitHub-HoboPizzaRat-0d1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
@@ -141,15 +157,17 @@ Learning Go and figuring out why everyone keeps saying
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   $ sudo ./understand_computers                            
+│   $ sudo ./understand_computers                            │
 │                                                             │
-│   [*] Initializing...                                      
-│   [*] Reading source...                                    
-│   [*] Breaking things...                                   
-│   [*] Fixing things...                                     
-│   [!] Accidentally learned how the kernel works            
+│   [*] Initializing...                                       │
+│   [*] Reading source...                                     │
+│   [*] Breaking things...                                    │
+│   [*] Fixing things...                                      │
+│   [*] Learning why it broke                                 │
 │                                                             │
-│   > process completed with questionable success            
+│   [!] Accidentally learned how the kernel works             │
+│                                                             │
+│   > process completed with questionable success             │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -158,4 +176,6 @@ Learning Go and figuring out why everyone keeps saying
   <i>"It works on my machine."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%">
+</p>
