@@ -89,7 +89,7 @@ Learning Go and figuring out why everyone keeps saying
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HoboPizzaRat&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
