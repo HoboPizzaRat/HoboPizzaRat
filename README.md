@@ -104,23 +104,6 @@ one language can possibly need.
 
 ---
 
-## `~/activity`
-
-Your GitHub contribution graph already lives directly on your profile.
-
-No third-party activity graph required.
-
-```text
-GitHub contributions
-        │
-        ├── commits
-        ├── pull requests
-        ├── issues
-        └── contribution history
-```
-
----
-
 ## `~/projects`
 
 ### 🔐 Security Research
