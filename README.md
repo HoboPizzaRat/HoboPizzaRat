@@ -7,11 +7,11 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   HoboPizzaRat                                               │
+│   HoboPizzaRat                                              │
 │                                                             │
-│   Security enthusiast      > breaking things responsibly   │
-│   Software developer       > building weird things         │
-│   Systems enjoyer          > digging below the abstraction │
+│   Security enthusiast      > breaking things responsibly    │
+│   Software developer       > building weird things          │
+│   Systems enjoyer          > digging below the abstraction  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -142,22 +142,10 @@ If the idea is sufficiently stupid, it deserves a repository.
 
 ---
 
-## `~/github`
-
-<p align="center">
-
-<a href="https://github.com/HoboPizzaRat">
-  <img src="https://img.shields.io/badge/GitHub-HoboPizzaRat-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   $ sudo ./understand_computers                            │
+│   $ sudo ./understand_computers                             │
 │                                                             │
 │   [*] Initializing...                                       │
 │   [*] Reading source...                                     │
