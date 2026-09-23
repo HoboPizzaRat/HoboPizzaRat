@@ -1,5 +1,3 @@
-# `> whoami`
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=HoboPizzaRat&fontColor=58A6FF&fontSize=48&fontAlignY=35&desc=Security%20%7C%20Systems%20%7C%20Software&descAlignY=55&descSize=18" width="100%">
 </p>
@@ -15,6 +13,7 @@
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+[![Codewars](https://www.codewars.com/users/HoboPizzaRat/badges/large)](https://www.codewars.com/users/HoboPizzaRat)
 
 ## `~/about`
 
